@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+body{
+    background-color: rgb(255,253,208);
+       
+}
+ h1,h2{ 
+    font-weight: bolder;
+    color: green;
+    font-size: 200%;
+    margin-bottom: 0px;
+ } 
+.bcl_name1{
+    display:flex;
+    border: 2px solid black;
+    margin-right:85%;
+    background-color: orange;
+}
+#w:hover{
+    color: white;
+}
+#x:hover{
+    color: white;
+    
+}
+#y:hover{
+    color: white;
+}
+#z:hover{
+    color: white;
+}
+ 
+
