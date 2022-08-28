@@ -32,5 +32,8 @@ body{
 #z:hover{
     color: white;
 }
- 
+#x,#w,#y,#z{
+    text-decoration: none;
+    color: black;
+} 
 
